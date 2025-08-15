@@ -1,0 +1,14 @@
+video-downloader-frame-extractor/
+│
+├── video_tool.py          # Main script (your provided code)
+├── README.md              # Documentation
+├── requirements.txt       # Dependencies
+├── LICENSE                # License file
+├── .gitignore             # Files to ignore in version control
+│
+├── examples/              # Example usage
+│   ├── download_list.txt  # Example URLs file
+│   └── sample_videos/     # Sample videos for testing
+│
+└── tests/                 # (Optional) Test scripts
+    └── test_functions.py
